@@ -6,3 +6,6 @@
 
 # Executables
 *.x
+
+# Output files
+*.out
